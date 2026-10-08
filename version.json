@@ -1,6 +1,6 @@
-﻿{
-    "version":  "v0.17",
+{
+    "version":  "v0.18",
     "date":  "2026-10-08",
-    "notes":  "首个支持自动更新的版本：新增 Excel 导入/导出、常用内容管理、托盘启动、自动更新检查",
+    "notes":  "本次为自动更新流程验证版（功能与 v0.17 相同，仅版本号 +1）",
     "zip":  "https://cdn.jsdelivr.net/gh/ZhangMingqi333/ledger-update@main/ledger.zip"
 }
