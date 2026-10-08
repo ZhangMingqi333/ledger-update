@@ -1,6 +1,6 @@
 ﻿{
     "version":  "v0.17",
     "date":  "2026-10-08",
-    "notes":  "请在这里写这次的更新说明（朋友端会看到）",
-    "zip":  "请把这里替换成 zip 的下载直链"
+    "notes":  "首个支持自动更新的版本：新增 Excel 导入/导出、常用内容管理、托盘启动、自动更新检查",
+    "zip":  "https://cdn.jsdelivr.net/gh/ZhangMingqi333/ledger-update@main/ledger.zip"
 }
